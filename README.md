@@ -24,6 +24,7 @@ The amount of free resources that we can find today on the internet is often ove
   - [Android Development](#android-development)
     - [Java](#java)
     - [Kotlin](#kotlin)
+    - [Compose](#compose)
     - [Youtube Channels](#youtube-channels)
 
 
@@ -160,12 +161,12 @@ The amount of free resources that we can find today on the internet is often ove
 
 ## Android Development
 
-In short, to learn Android Development, the top and best resource is **UDACITY** Courses !!
+In short, to learn Android Development, the top and best free resource is **UDACITY** !!
 Why ? Well they are developed in collaboration with Google and taught by Google's industry experts, following best and recommended practises !!
 So if you want to start learning Android Development, just pick a language and start learning from very basic from Udacity's Courses
 
 In Native Android Development we have two languages choices :-
-1. *Java* (Ex-Official Android Development Language)
+1. *Java* (Ex-Official Android Development Language, not recommended, all the courses are too old for java now)
 2. *Kotlin* (Kotlin was announced as an Official Android Development Language at **Google I/O May 2017** and now used by most of the top apps in PlayStore)
    
 ### Java
@@ -179,10 +180,23 @@ In Native Android Development we have two languages choices :-
 
 ### Kotlin
 - *'Single Source of Truth: '* [Android's Kotlin Resource Page](https://developer.android.com/kotlin)
-- Udacity's Course for : [Kotlin Bootcamp for Programmers](https://classroom.udacity.com/courses/ud9011)
-- Udacity's Course for : [Developing Android App with Kotlin](https://classroom.udacity.com/courses/ud9012)
-- Udacity's Course for : [Advanced Android App Development](https://classroom.udacity.com/courses/ud855)
+- Start with Kotlin Basics
+  
+  Udacity's Course for : [Kotlin Bootcamp for Programmers](https://classroom.udacity.com/courses/ud9011)
+- Covers most of the used concepts, must learn 100% from starting
+  
+  Udacity's Course for : [Developing Android App with Kotlin](https://classroom.udacity.com/courses/ud9012)
+- Below two courses contains advanced concepts, can be used to learn advanced concepts as required or 100% too.
+  
+  Udacity's Course for : [Advanced Android App Development](https://classroom.udacity.com/courses/ud855)
+  
+  Udacity's Course for : [Advanced Android With Kotlin](https://learn.udacity.com/courses/ud940)
+
 - [Mini Courses on Google Codelab : ](https://codelabs.developers.google.com) Learn Anything related to Google's Technologies here including Android, Firebase, Tensor Flow, Flutter, Google Cloud etc etc etc.
+
+### Compose 
+- Official Site with Pathways, and Codelabs : [Compose](https://developer.android.com/jetpack/compose)
+- Playlist on youtube by [Philipp Lackner Compose](https://www.youtube.com/watch?v=cDabx3SjuOY&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
 
 ### Youtube Channels
 - Android's Official Youtube Channel : [Android Developers](https://www.youtube.com/c/AndroidDevelopers/videos)
